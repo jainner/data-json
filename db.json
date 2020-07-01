@@ -1,0 +1,36 @@
+{ 
+   "cursos":[ 
+    {
+        "id": 1,
+        "title": "Go desde cero",
+        "image":
+            "https://edteam-media.s3.amazonaws.com/courses/original/91e149d0-961a-4594-a8ff-0a625be9cdd2.png",
+        "price": 30,
+        "profesor": "Alvaro felipe"
+        },
+        {
+        "id": 2,
+        "title": "Vue.js desde cero",
+        "image":
+            "https://edteam-media.s3.amazonaws.com/courses/original/b393cce0-3ec8-4c61-877d-92e2e04f9120.png",
+        "price": 25,
+        "profesor": "Juan torres"
+        },
+        {
+        "id": 3,
+        "title": "Git desde cero",
+        "image":
+            "https://edteam-media.s3.amazonaws.com/courses/original/bbf9707a-d2e8-441e-ab4b-756bf3bb527a.png",
+        "price": 35,
+        "profesor": "Alvaro felipe"
+        },
+        {
+        "id": 4,
+        "title": "Javascript desde cero",
+        "image":
+            "https://edteam-media.s3.amazonaws.com/courses/original/321a7716-9234-492f-8879-f7adc122624a.png",
+        "price": 40,
+        "profesor": "Alvaro felipe"
+        }
+    ]
+}
